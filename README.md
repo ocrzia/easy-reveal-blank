@@ -17,11 +17,19 @@ Une fois que vous êtes arrivés à faire ça pour un seul élément (félicitat
 
 ## Avec qui est-ce que je travaille sur ce projet Monsieur olifiéééééé ?
 
+### Jusqu'à 10h
 Dans un premier temps vous bosserez jusqu'à la pause seuls, chacun dans votre coin, comme des petites belettes acculées et apeurées.
 
-Ensuite, après avoir pleuré pendant une heure en vous demandant "mais par quoi je dois commenceeeeer meeeeeeerde ???!!", vous retrouverez une autre belette sur discord.
+### Après 10h15
+Ensuite, après avoir pleuré pendant une heure en vous demandant "mais par quoi je dois commenceeeeer meeeeeeerde ???!!", vous retrouverez d'autres belettes sur discord.
 
-Voici la constitution des groupes de belettes acculées :
+Voici la constitution des groupes de belettes acculées et apeurées (ensemble vous serez de plus fortes belettes) :
 
 * The cheater w/ The-never-ending-questioning-woman and The-Moustache
 * The-never-asking-no-question-woman w/ Jee-Pay and K-Mie-de-pain
+
+Votre formateur préféré passera dans les groupes pour dispenser ses meilleures insultes et pour veiller que vous êtes toujours bien dans la merde.
+
+Je vous aime d'un amour pur & absolu ♥
+
+Bisou-bisou
