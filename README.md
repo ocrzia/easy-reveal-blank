@@ -13,7 +13,9 @@ Votre objectif : la faire apparaître à nouveau et lui rendre son éclat d'anta
 3. La classe "revealable" placée sur une image sert de repère pour les éléments qu'on veut faire apparaître (ici un seul)
 4. La classe "revealed" est à placer sur cet élément quand on est arrivés à hauteur de la moitié de cet élément (ou un peu moins de la moitié comme vous voulez)
 
-Une fois que vous êtes arrivés à faire ça pour un seul élément (félicitations), merci d'appliquer des classes "revealable" sur tous les éléments de la page (sauf le titre) et de faire fonctionner votre script sur tous les éléments à la fois de façon indépendante.
+Une fois que vous êtes arrivés à faire ça pour un seul élément (félicitations), en groupe (donc après 10h15), merci d'appliquer des classes "revealable" sur tous les éléments de la page (sauf le titre) et de faire fonctionner votre script sur tous les éléments à la fois de façon indépendante.
+
+Nous corrigerons la première partie avant que vous ne réfléchissiez à la deuxième, si j'en ai envie 👼
 
 ## Avec qui est-ce que je travaille sur ce projet Monsieur olifiéééééé ?
 
@@ -22,6 +24,10 @@ Dans un premier temps vous bosserez jusqu'à la pause seuls, chacun dans votre c
 
 ### Après 10h15
 Ensuite, après avoir pleuré pendant une heure en vous demandant "mais par quoi je dois commenceeeeer meeeeeeerde ???!!", vous retrouverez d'autres belettes sur discord.
+
+Ensemble, vous partagerez vos déboires et maudirez votre formateur.
+
+Ensuite, après avoir résolu le problème pour une image, ensemble, vous vous pencherez sur "Comment faire pour appliquer l'effet (que vous aurez réussi) à tous les éléments ?
 
 Voici la constitution des groupes de belettes acculées et apeurées (ensemble vous serez de plus fortes belettes) :
 
